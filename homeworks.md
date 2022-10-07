@@ -1,6 +1,7 @@
 # Домашние задания
 
 ## Занятие 12 (07.10.2022)
+- [ ] [Покупаем - продаём](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) 
 ## Занятие 11 (03.10.2022)
 - [ ] Задача про [in-order обход дерева](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 ## Занятие 10 (30.09.2022)
