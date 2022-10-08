@@ -1,6 +1,7 @@
 # Домашние задания
 
 ## Занятие 12 (07.10.2022)
+- [ ] Зарегистрируйся на [Yandex Cup (направление "Бэкенд")](https://yandex.ru/cup/backend/)
 - [ ] [Покупаем - продаём](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) 
   - [ ] ответить на вопрос в Miro
   - [ ] доделать задачу так, чтобы она влезла в time limit
