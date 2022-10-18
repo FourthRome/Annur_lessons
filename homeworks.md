@@ -1,12 +1,19 @@
 # Домашние задания
-
+## Занятие 15 (17.10.2022)
+- [ ] [Проверка, является ли дерево сбалансированным](https://leetcode.com/problems/balanced-binary-tree/)
+- [ ] Найти способ решить [задачу про цикл в связном списке](https://leetcode.com/problems/linked-list-cycle/) через рекурсию или найти убедительные доводы, почему это невозможно
+## Занятие 14 (14.10.2022)
+- [x] [Подъём по лестнице ](https://leetcode.com/problems/climbing-stairs/)
+- [x] [Проверка двух деревьев на равенство](https://leetcode.com/problems/same-tree/)
+## Занятие 13 (10.10.2022)
+Дебажили всякое
 ## Занятие 12 (07.10.2022)
-- [ ] Зарегистрируйся на [Yandex Cup (направление "Бэкенд")](https://yandex.ru/cup/backend/)
-- [ ] [Покупаем - продаём](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) 
-  - [ ] ответить на вопрос в Miro
-  - [ ] доделать задачу так, чтобы она влезла в time limit
+- [x] Зарегистрируйся на [Yandex Cup (направление "Бэкенд")](https://yandex.ru/cup/backend/)
+- [x] [Покупаем - продаём](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) 
+  - [x] ответить на вопрос в Miro
+  - [x] доделать задачу так, чтобы она влезла в time limit
 ## Занятие 11 (03.10.2022)
-- [ ] Задача про [in-order обход дерева](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+- [x] Задача про [in-order обход дерева](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 ## Занятие 10 (30.09.2022)
 - [x] [ABABA из ЕГЭ](https://inf-ege.sdamgia.ru/problem?id=27694)
   - [x] Добавить тесты
