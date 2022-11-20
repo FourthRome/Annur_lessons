@@ -1,6 +1,12 @@
 # Домашние задания
+## Занятие 25 (25.11.2022)
+- [ ] 
 ## Занятие 24 (21.11.2022)
+- [ ] [Longest uncommon subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)
+- [ ] [Find center of a star graph](https://leetcode.com/problems/find-center-of-star-graph/)
+- [ ] [Find if path exists in a graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)
 ## Занятие 23 (14.11.2022)
+- [ ] [Зигзаг-преобразование](https://leetcode.com/problems/zigzag-conversion/) 
 - [ ] [Найти максимальную общую подпоследовательность двух строк](https://leetcode.com/problems/longest-common-subsequence/)
 ## Занятие 22 (11.11.2022)
 - [x] [Является ли строка подпоследовательностью другой строки](https://leetcode.com/problems/is-subsequence/)
