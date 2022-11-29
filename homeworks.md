@@ -1,12 +1,17 @@
 # Домашние задания
 ## Занятие 26 (29.11.2022)
-- [ ] 
+- [ ] Заглянуть на [e-maxx.ru/algo](https://e-maxx.ru/algo/), вдруг что приглянётся и заинтересует :)
+- [ ] [Так вот что значит название CIties: Skylines](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/) (эта задача должна была быть в списке задач на жадные алгоритмы, но мне не удалось понять ни по своему решению, ни по официальному предложенному, каким образом здесь нужна жадина)
+
+Задачи на жадные алгоритмы (требуется не только решить задачи, но и понять, в чём состоит "жадность" используемого алгоритма):
+- [ ] [Сбор монет](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)
+- [ ] [Наполнение чашек](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/description/)
 ## Занятие 25 (25.11.2022)
 - [ ] 
 ## Занятие 24 (21.11.2022)
 - [x] [Longest uncommon subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)
 - [x] [Find center of a star graph](https://leetcode.com/problems/find-center-of-star-graph/)
-- [ ] [Find if path exists in a graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)
+- [x] [Find if path exists in a graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)
 ## Занятие 23 (14.11.2022)
 - [ ] [Зигзаг-преобразование](https://leetcode.com/problems/zigzag-conversion/) 
 - [x] [Найти максимальную общую подпоследовательность двух строк](https://leetcode.com/problems/longest-common-subsequence/)
