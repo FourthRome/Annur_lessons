@@ -1,13 +1,17 @@
 # Домашние задания
+## Занятие 28 (05.12.2022)
+- [ ] 
+## Занятие 27 (02.12.2022)
+- [ ] Посмотреть задачи из [прошлогоднего муниципального этапа Всероса](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2021-22/mun/iikt/tasks-iikt-9-11-mun-msk-21-22.pdf), по меньшей мере понять формулировку, попробовать решить
 ## Занятие 26 (29.11.2022)
 - [ ] Заглянуть на [e-maxx.ru/algo](https://e-maxx.ru/algo/), вдруг что приглянётся и заинтересует :)
 - [ ] [Так вот что значит название CIties: Skylines](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/) (эта задача должна была быть в списке задач на жадные алгоритмы, но мне не удалось понять ни по своему решению, ни по официальному предложенному, каким образом здесь нужна жадина)
 
 Задачи на жадные алгоритмы (требуется не только решить задачи, но и понять, в чём состоит "жадность" используемого алгоритма):
-- [ ] [Сбор монет](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)
-- [ ] [Наполнение чашек](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/description/)
+- [x] [Сбор монет](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)
+- [x] [Наполнение чашек](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/description/)
 ## Занятие 25 (25.11.2022)
-- [ ] 
+Иии... я ничего не задал ┗( T﹏T )┛
 ## Занятие 24 (21.11.2022)
 - [x] [Longest uncommon subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)
 - [x] [Find center of a star graph](https://leetcode.com/problems/find-center-of-star-graph/)
